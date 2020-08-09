@@ -1,0 +1,25 @@
+.menu {
+    max-width: 1000px;
+    padding: 10px;
+    border-bottom: 1px solid gray;
+    text-align: left;
+    max-height: 7.3rem;   
+}
+.menu__logo {
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: block;    
+}
+.menu__navbar {
+    display: inline-block;
+    width: 100%;
+    text-align: right;
+}
+.navbar ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.menu__input {
+    border-radius: 30px;
+}
